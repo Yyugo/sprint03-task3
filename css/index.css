@@ -1,4 +1,4 @@
-.square {
+/* .square {
 	width: 200px;
 	height: 150px;
 	border: 2px solid black;
@@ -13,4 +13,18 @@
 	text-align: center; 
 	border: 1px solid #D94A38;
 	border-radius: 1rem;
+ } */
+
+
+ .square {
+	width: 200px;
+	height: 150px;
+	border: 1px solid black;
+	border-radius: 1%;
+	
+ }
+
+ .square button {
+	background-color: rgb(169, 169, 169);
+	margin: 10px 0 0 15px;
  }
